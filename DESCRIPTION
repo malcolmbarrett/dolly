@@ -10,11 +10,13 @@ Authors@R:
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Encoding: UTF-8
-Language: es
+Language: en-US
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.1.1
 URL: https://github.com/malcolmbarrett/dolly
 BugReports: https://github.com/malcolmbarrett/dolly/issues
 Suggests: 
-    covr
+    covr,
+    spelling,
+    testthat
