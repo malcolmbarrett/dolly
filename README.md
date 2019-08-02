@@ -7,6 +7,10 @@
 
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![Travis build
+status](https://travis-ci.org/malcolmbarrett/dolly.svg?branch=master)](https://travis-ci.org/malcolmbarrett/dolly)
+[![AppVeyor build
+status](https://ci.appveyor.com/api/projects/status/github/malcolmbarrett/dolly?branch=master&svg=true)](https://ci.appveyor.com/project/malcolmbarrett/dolly)
 <!-- badges: end -->
 
 dolly is an R package to clone data sets efficiently for use with
