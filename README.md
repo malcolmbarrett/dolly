@@ -11,6 +11,8 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 status](https://travis-ci.org/malcolmbarrett/dolly.svg?branch=master)](https://travis-ci.org/malcolmbarrett/dolly)
 [![AppVeyor build
 status](https://ci.appveyor.com/api/projects/status/github/malcolmbarrett/dolly?branch=master&svg=true)](https://ci.appveyor.com/project/malcolmbarrett/dolly)
+[![Codecov test
+coverage](https://codecov.io/gh/malcolmbarrett/dolly/branch/master/graph/badge.svg)](https://codecov.io/gh/malcolmbarrett/dolly?branch=master)
 <!-- badges: end -->
 
 dolly is an R package to clone data sets efficiently for use with
