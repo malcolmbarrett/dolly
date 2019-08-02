@@ -33,3 +33,7 @@ You can install the development version of dolly from GitHub with:
 # install.packages("remotes")
 remotes::install_github("malcolmbarrett/dolly")
 ```
+
+Please note that the 'dolly' project is released with a
+[Contributor Code of Conduct](CODE_OF_CONDUCT.md).
+By contributing to this project, you agree to abide by its terms.
